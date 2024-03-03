@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Bravooooh
-- 👀 I’m interested in DataScience, Cryptos, Home automation
-- 🌱 I’m currently learning Life
+- 👀 Interested in DataScience, Cryptos, Home automation
+- 🌱 Currently learning Life, n00b
